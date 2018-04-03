@@ -51,13 +51,13 @@ import { SearchBar } from 'react-native-elements'
   placeholder='Type Here...' />
 
 <SearchBar
-  showLoading
+  
   platform="ios"
   cancelButtonTitle="Cancel"
   placeholder='Search' />
 
 <SearchBar
-  showLoading
+  
   platform="android"
   placeholder='Search' />
 ```
